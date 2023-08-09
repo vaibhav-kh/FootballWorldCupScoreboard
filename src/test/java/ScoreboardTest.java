@@ -1,7 +1,7 @@
 package test.java;
 
-import main.java.Scoreboard;
 import main.java.Match;
+import main.java.Scoreboard;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
