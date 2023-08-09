@@ -1,0 +1,13 @@
+# Ignore compiled output and logs
+target/
+build/
+*.log
+
+# Ignore IDE-specific files and directories
+.idea/
+.vscode/
+*.iml
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
