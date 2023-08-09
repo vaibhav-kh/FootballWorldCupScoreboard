@@ -33,4 +33,4 @@ This is simple library with below details:
 2. Exception has been thrown if trying update score for match not in progress
 
 # Command to clone the repository
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/vaibhav-kh/FootballWorldCupScoreboard.git
